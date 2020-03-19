@@ -1,0 +1,7 @@
+What a strange challenge...
+
+It'll be no problem for you, of course!
+
+nc misc.2020.chall.actf.co 20300
+
+HINT: Do you really need to calculate all those numbers?
